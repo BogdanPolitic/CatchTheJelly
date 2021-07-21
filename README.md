@@ -6,7 +6,11 @@ Simple real-strategy 2D Android game. The main task is "chasing" the jelly entit
 The multiple levels and a limited number of failed attempts - "hearts" - develop a nice in-game progress system. Every two levels guarantee an extra "heart" upon completion.
 Players can also load a specific level that they want to play, but it requires that all previous levels are unlocked. To unlock a level, they should simply complete it once.
 
-![Demo](https://github.com/BogdanPolitic/Demos/blob/main/Raycasting_CT.gif?raw=true)
+<h3> Demo showing a game loss </h3>
+![Demo](https://github.com/BogdanPolitic/Demos/blob/main/jellyloss.gif?raw=true)
+
+<h3> Demo showing a game win </h3>
+![Demo](https://github.com/BogdanPolitic/Demos/blob/main/jellywin.gif?raw=true)
 
 <h3> Short background & gameplay description </h3>
 
