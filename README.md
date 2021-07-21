@@ -6,6 +6,8 @@ Simple real-strategy 2D Android game. The main task is "chasing" the jelly entit
 The multiple levels and a limited number of failed attempts - "hearts" - develop a nice in-game progress system. Every two levels guarantee an extra "heart" upon completion.
 Players can also load a specific level that they want to play, but it requires that all previous levels are unlocked. To unlock a level, they should simply complete it once.
 
+![Demo](https://github.com/BogdanPolitic/Demos/blob/main/Raycasting_CT.gif?raw=true)
+
 <h3> Short background & gameplay description </h3>
 
 The game follows the story of a little jelly baby. It tries to outrun humans, so that they can't eat it, but eventually you will try your best to chase it. Be careful, there is also a timer base on which the jelly can escape your sights forever! Also, as any other thingies today, this jelly is a powerful AI machine that constantly learns to make his way faster and trickier. Thus, the more you advance level-wise, the more difficult the jelly is to be chased.
