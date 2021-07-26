@@ -1,4 +1,4 @@
-# CatchTheJelly
+# CatchTheJelly  [Play Store link](https://play.google.com/store/apps/details?id=co.snOmOtiOn.bogdan.catchthejellyv112020)
 
 <h3> General description </h3>
 
